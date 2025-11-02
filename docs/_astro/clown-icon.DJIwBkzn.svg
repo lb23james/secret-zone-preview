@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Clown">
+  <!-- occhi a croce -->
+  <g stroke="#fd4b25" stroke-linecap="round" stroke-width="16" fill="none">
+    <line x1="32" y1="28" x2="52" y2="28"></line>
+    <line x1="42" y1="18" x2="42" y2="38"></line>
+
+    <line x1="76" y1="28" x2="96" y2="28"></line>
+    <line x1="86" y1="18" x2="86" y2="38"></line>
+  </g>
+
+  <!-- naso -->
+  <circle cx="64" cy="56" r="12" fill="#fd4b25"></circle>
+
+  <!-- grande sorriso -->
+  <path d="M20 88 Q64 124 108 88" fill="none" stroke="#fd4b25" stroke-width="20" stroke-linecap="round" stroke-linejoin="round"></path>
+</svg>

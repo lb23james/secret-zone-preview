@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Divieto di accesso (outline)">
+  <!-- Contorno -->
+  <circle cx="64" cy="64" r="54" fill="none" stroke="#fd4b25" stroke-width="12"></circle>
+  <!-- Trattino centrale spesso -->
+  <rect x="24" y="52" width="80" height="24" rx="12" fill="#fd4b25"></rect>
+</svg>
