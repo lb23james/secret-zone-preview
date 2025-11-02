@@ -23,7 +23,7 @@ import{i as Vt,o as bt,c as At,a as me,O as Ce,b as pn,r as gn,d as mn,e as Cn,f
 
 
 
-[_ngcontent-%COMP%]:root {
+[_nghost-%COMP%] {
   --cell: 75px;
 }
 
@@ -299,7 +299,7 @@ label[_ngcontent-%COMP%] {
 
 
 @media (max-width: 650px) {
-  [_ngcontent-%COMP%]:root {
+  [_nghost-%COMP%] {
     --cell: 45px;
   }
   
@@ -358,7 +358,7 @@ label[_ngcontent-%COMP%] {
 
 
 @media (min-width: 651px) and (max-width: 900px) {
-  [_ngcontent-%COMP%]:root {
+  [_nghost-%COMP%] {
     --cell: 70px;
   }
   
